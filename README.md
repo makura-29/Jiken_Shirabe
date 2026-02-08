@@ -8,7 +8,6 @@ The project replicates the in-game search page where the main character and thei
 
 - **Frontend:** React + TypeScript
 - **Backend:** Java Spring Boot API
-- **Database:** (Optional: mention if you use one, e.g., H2 / MySQL / MongoDB)
 - **Styling:** CSS
 
 ## Features
